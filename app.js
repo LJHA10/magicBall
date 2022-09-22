@@ -31,16 +31,16 @@ switch (randomNumber){
     eightBall= "Podria ser";
     break;
   case 4:
-    eightBall= "Do not count on it";
+    eightBall= "Si";
     break;
   case 5:
-    eightBall= "My sources say no";
+    eightBall= "No";
     break;
   case 6:
-    eightBall= "Outlook not so good";
+    eightBall= "En mi opinion no es posible";
     break;
   case 7:
-    eightBall = "Sings point to yes";
+    eightBall = "Es obvio que si";
     break;
  }
 return eightBall
