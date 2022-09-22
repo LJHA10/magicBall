@@ -19,16 +19,16 @@ let randomNumber = Math.floor(Math.random() * 8);
 let eightBall = '';
 switch (randomNumber){
   case 0:
-    eightBall = "It is certain";
+    eightBall = "La respues es si";
     break;
   case 1:
-    eightBall= "It is decidedly so";
+    eightBall= "Por su puesto que no";
     break;
   case 2:
-    eightBall= "Reply hazy try again";
+    eightBall= "Intentalo de nuevo";
     break;
   case 3:
-    eightBall= "Cannot predict now";
+    eightBall= "Podria ser";
     break;
   case 4:
     eightBall= "Do not count on it";
